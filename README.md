@@ -1,5 +1,7 @@
 # macos-tools
 
+[![Tests](https://github.com/MCsumz/macos-tools/actions/workflows/tests.yml/badge.svg)](https://github.com/MCsumz/macos-tools/actions/workflows/tests.yml)
+
 Small macOS fixes and helpers from my homelab, where a Mac mini M4 works as an always-on AI
 server. Each one solved a real problem on that Mac. Each is self-contained, has its own README
 and has its own release.
